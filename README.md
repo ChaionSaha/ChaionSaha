@@ -53,19 +53,21 @@
 <br/>
 
 ## 📊 Github Stats:  
+<!--
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ChaionSaha&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
+ !-->
 
 ![ChaionSaha's github activity graph](https://activity-graph.herokuapp.com/graph?username=ChaionSaha&theme=github)
+<br/>  
+
+  
+
+<br/>  
+
+  
+
+<br/> 
 <hr>
 
 <div align="left">
