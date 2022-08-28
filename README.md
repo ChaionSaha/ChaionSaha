@@ -1,3 +1,4 @@
+<hr>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=100&pause=1000&color=A929F7FF&center=true&width=1920&height=500&lines=Hi%2C+I+am+Chaion+Saha;Front+End+Developer;2%2B+years+of+coding+experience.;Welcome+to+my+github+account)](https://git.io/typing-svg)
 
  
