@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Silkscreen&size=100&pause=1000&color=A929F7FF&center=true&width=1920&height=500&lines=Hi%2C+I+am+Chaion+Saha.;I+am+a+Front+End+Developer.;2%2B+years+of+coding+experience.;Welcome+to+my+github+account.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Silkscreen&size=100&pause=1000&color=A929F7FF&center=true&width=1820&height=500&lines=Hi%2C+I+am+Chaion+Saha.;I+am+a+Front+End+Developer.;2%2B+years+of+coding+experience.;Welcome+to+my+github+account.)](https://git.io/typing-svg)
 
  
 ## 💫 About Me:
