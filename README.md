@@ -1,8 +1,12 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=100&pause=1000&color=F7EFE7&center=true&width=1920&height=500&lines=Hi%2C+I+am+Chaion+Saha;Front+End+Developer;2%2B+years+of+coding+experience.;Welcome+to+my+github+account)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=100&pause=1000&color=BAAFF7&center=true&width=1920&height=500&lines=Hi%2C+I+am+Chaion+Saha;Front+End+Developer;2%2B+years+of+coding+experience.;Welcome+to+my+github+account)](https://git.io/typing-svg)
 
  
 ## 💫 About Me:
- - 👀 Currently learning everything.<br> - 💬 Know a bit about **C#, HTML, CSS, JS**<br> - 🥅 2022 goals: Be more productive.<br> - ⚡ Fun fact: I love experiencing new things.<br> - 📫 Email: **chaionsaha00@gmail.com**
+ - 👀 Currently learning everything.<br> 
+ - 💬 Know a bit about **C#, HTML, CSS, JS**<br> 
+ - 🥅 2022 goals: Be more productive.<br> 
+ - ⚡ Fun fact: I love experiencing new things.<br> 
+ - 📫 Email: **chaionsaha00@gmail.com**
 <br/>
 <br/>
 
