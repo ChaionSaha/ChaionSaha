@@ -3,7 +3,8 @@
  
 ## 💫 About Me:
  - 👀 Currently learning everything.<br> - 💬 Know a bit about **C#, HTML, CSS, JS**<br> - 🥅 2022 goals: Be more productive.<br> - ⚡ Fun fact: I love experiencing new things.<br> - 📫 Email: **chaionsaha00@gmail.com**
-
+<br/>
+<br/>
 
 ## My Skill Set  
 <table><tr><td valign="top" width="100%">
@@ -58,7 +59,7 @@
 
 <br/>  
 
-<div align="center">
+<div align="left">
 <img src="https://komarev.com/ghpvc/?username=ChaionSaha&&style=flat-square" align="center" />
 </div>  
   
