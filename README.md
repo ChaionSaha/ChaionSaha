@@ -4,11 +4,13 @@
  - I am from Bangladesh. 
  - I am currently doing my study at Rajshahi University of Engineering and Technology.
  - I love experiencing new things.
-<hr>
+
 
 
 - 💬 Ask me about **C#, HTML, CSS, JS**
 - 📫 How to reach me **chaionsaha00@gmail.com**
+
+<hr>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
