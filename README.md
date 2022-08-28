@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=100&pause=1000&color=F7EFE7&center=true&width=1920&height=500&lines=Hi%2C+I+am+Chaion+Saha;Front+End+Developer;2%2B+years+of+coding+experience.;Welcome+to+my+github+account)](https://git.io/typing-svg)
 
  
-# 💫 About Me:
+## 💫 About Me:
  - 👀 Currently learning everything.<br> - 💬 Know a bit about **C#, HTML, CSS, JS**<br> - 🥅 2022 goals: Be more productive.<br> - ⚡ Fun fact: I love experiencing new things.<br> - 📫 Email: **chaionsaha00@gmail.com**
 
 <hr>
@@ -66,11 +66,4 @@
 
 <br/>  
 
-<div align="center">
-            <a href="https://www.buymeacoffee.com/rishavanand" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
 <br /
