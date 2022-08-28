@@ -4,7 +4,6 @@
 ## 💫 About Me:
  - 👀 Currently learning everything.<br> - 💬 Know a bit about **C#, HTML, CSS, JS**<br> - 🥅 2022 goals: Be more productive.<br> - ⚡ Fun fact: I love experiencing new things.<br> - 📫 Email: **chaionsaha00@gmail.com**
 
-<hr>
 
 ## My Skill Set  
 <table><tr><td valign="top" width="100%">
@@ -66,4 +65,4 @@
 
 <br/>  
 
-<br /
+
