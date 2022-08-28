@@ -51,7 +51,6 @@
 
 <br/>  
 <br/>
-<hr>
 
 ## 📊 Github Stats:  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ChaionSaha&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
@@ -65,6 +64,8 @@
   
 
 <br/>  
+
+<hr>
 
 <div align="left">
 <img src="https://komarev.com/ghpvc/?username=ChaionSaha&&style=flat-square" align="center" />
