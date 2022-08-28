@@ -1,9 +1,12 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&pause=1000&color=F7EFE7&center=true&width=435&lines=2%2B+years+of+coding+experience.;Front+End+Developer;Growing+day+by+day.)](https://git.io/typing-svg)
+
+
 <h1 align="center">Hi 👋, I'm Chaion Saha.</h1>
 <h3 align="center">I am from Bangladesh. I am currently doing my study at Rajshahi University of Engineering and Technology.</h3>
 <hr>
 
-- 💬 Ask me about **C#, HTML, CSS, JS**
 
+- 💬 Ask me about **C#, HTML, CSS, JS**
 - 📫 How to reach me **chaionsaha00@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
