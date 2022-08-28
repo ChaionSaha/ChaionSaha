@@ -11,7 +11,7 @@
 <br/>
 
 
-<h2> My Skill Set</h2>  
+<h1> My Skill Set</h1>  
 <table><tr><td valign="top" width="100%">
 
 
