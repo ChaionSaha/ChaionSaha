@@ -1,8 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=100&pause=1000&color=F7EFE7&center=true&width=1920&height=200&lines=Hi%2C+I+am+Chaion+Saha;Front+End+Developer;2%2B+years+of+coding+experience.;Welcome+to+my+github+account)](https://git.io/typing-svg)
 
-
-<h1 align="center">Hi 👋, I'm Chaion Saha.</h1>
-<h3 align="center">I am from Bangladesh. I am currently doing my study at Rajshahi University of Engineering and Technology.</h3>
+<hr>
+<p align="left">I am from Bangladesh. I am currently doing my study at Rajshahi University of Engineering and Technology.</p>
 <hr>
 
 
