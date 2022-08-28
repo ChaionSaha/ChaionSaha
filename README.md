@@ -10,9 +10,8 @@
 <br/>
 <br/>
 
-## Its a double hash
 
-## My Skill Set  
+<h2> My Skill Set</h2>  
 <table><tr><td valign="top" width="100%">
 
 
