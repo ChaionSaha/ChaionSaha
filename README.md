@@ -3,9 +3,9 @@
  
  - 👀 Currently learning everything.
  - 💬 Know a bit about **C#, HTML, CSS, JS**
- - 📫 Email **chaionsaha00@gmail.com**
  - 🥅 2022 goals: Be more productive.
  - ⚡ Fun fact: I love experiencing new things.
+ - 📫 Email: **chaionsaha00@gmail.com**
 
 
 
