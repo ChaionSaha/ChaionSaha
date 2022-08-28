@@ -11,7 +11,7 @@
 <br/>
 
 
-<h1> My Skill Set</h1>  
+<p style="font-weight: bold; color: blue;"> My Skill Set</p>  
 <table><tr><td valign="top" width="100%">
 
 
