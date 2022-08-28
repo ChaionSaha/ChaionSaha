@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&pause=1000&color=F7EFE7&center=true&width=435&lines=2%2B+years+of+coding+experience.;Front+End+Developer;Growing+day+by+day.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=100&pause=1000&color=F7EFE7&center=true&width=1920&height=1080&lines=Hi%2C+I+am+Chaion+Saha+%F0%9F%91%8B%F0%9F%8F%BB;Front+End+Developer;Growing+day+by+day.;Sphinx+of+black+quartz%2C+judge+my+vow)](https://git.io/typing-svg)
 
 
 <h1 align="center">Hi 👋, I'm Chaion Saha.</h1>
