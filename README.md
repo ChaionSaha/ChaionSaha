@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=100&pause=1000&color=F7EFE7&center=true&width=1920&height=200&lines=Hi%2C+I+am+Chaion+Saha;Front+End+Developer;2%2B+years+of+coding+experience.;Welcome+to+my+github+account)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=100&pause=1000&color=F7EFE7&center=true&width=1920&height=500&lines=Hi%2C+I+am+Chaion+Saha;Front+End+Developer;2%2B+years+of+coding+experience.;Welcome+to+my+github+account)](https://git.io/typing-svg)
 
 
  - I am from Bangladesh. 
@@ -27,9 +27,9 @@
 <hr>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chaionsaha&show_icons=true&locale=en&layout=compact" alt="chaionsaha" /></p>
-
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chaionsaha&show_icons=true&locale=en" alt="chaionsaha" /></p>
-
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chaionsaha&" alt="chaionsaha" /></p>
 
 <hr>
