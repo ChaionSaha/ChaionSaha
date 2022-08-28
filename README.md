@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chaion Saha.</h1>
 <h3 align="center">I am from Bangladesh. I am currently doing my study at Rajshahi University of Engineering and Technology.</h3>
-
+<hr>
 
 - 💬 Ask me about **C#, HTML, CSS, JS**
 
