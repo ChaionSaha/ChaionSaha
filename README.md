@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chaion Saha.</h1>
 <h3 align="center">I am from Bangladesh. I am currently doing my study at Rajshahi University of Engineering and Technology.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chaionsaha" alt="chaionsaha" /></a> </p>
 
 - 💬 Ask me about **C#, HTML, CSS, JS**
 
