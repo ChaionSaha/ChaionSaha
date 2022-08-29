@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Silkscreen&size=100&pause=1000&color=80F7F6FF&center=true&width=2120&height=500&lines=Hi%2C+I+am+Chaion+Saha.;I+am+a+Front+End+Developer.;2%2B+years+of+coding+experience.;Welcome+to+my+github+profile.)](https://git.io/typing-svg) ![Hi](https://user-images.githubusercontent.com/90419674/187185994-85e6aa78-54ae-4701-92e5-35e8afb3a34b.gif)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Silkscreen&size=100&pause=1000&color=80F7F6FF&center=true&width=2120&height=500&lines=Hi%2C+I+am+Chaion+Saha.;I+am+a+Front+End+Developer.;2%2B+years+of+coding+experience.;Welcome+to+my+github+profile.)](https://git.io/typing-svg)
 
 
  
@@ -17,7 +17,7 @@
 
 
 ## 🤹🏻‍♂️ My Skill Set: 
-<table><tr><td valign="top" width="100%">
+
 
 
 
@@ -35,7 +35,7 @@
 </div>
 
 
-</td></tr></table>  
+ 
 
 <br/>  
 <br/>
