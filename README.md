@@ -5,7 +5,8 @@
 
 ## 💫 About Me: 
  - <img src="https://user-images.githubusercontent.com/90419674/187185994-85e6aa78-54ae-4701-92e5-35e8afb3a34b.gif" height="20px"/> I am Chaion Saha.
- - <img src="https://user-images.githubusercontent.com/90419674/187188073-b9679e80-e992-4f47-97fd-8afd02ccca44.gif" width="20px" valign="center"/> Currently learning everything. <br>
+ - <img src="https://user-images.githubusercontent.com/90419674/187188491-5ee760d0-996a-46a9-b5e3-7ae9cdbd5117.gif" width="20px" valign="center"/> Currently learning everything. <br>
+![watching-eyes]
 
  - 💬 Know a bit about **C#, HTML, CSS, JS**<br> 
  - 🥅 2022 goals: Be more productive.<br> 
