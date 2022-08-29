@@ -2,8 +2,8 @@
 
 
  
-## 💫 About Me: ![git-header](https://user-images.githubusercontent.com/90419674/187183034-eeb67983-81af-4ce5-911b-eec6a93e39dc.svg)
- - 👀 Currently learning everything. &nbsp <br> ![git-header](https://user-images.githubusercontent.com/90419674/187183034-eeb67983-81af-4ce5-911b-eec6a93e39dc.svg)
+## 💫 About Me: 
+ - 👀 Currently learning everything. <br> 
  - 💬 Know a bit about **C#, HTML, CSS, JS**<br> 
  - 🥅 2022 goals: Be more productive.<br> 
  - ⚡ Fun fact: I love experiencing new things.<br> 
