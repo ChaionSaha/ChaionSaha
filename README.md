@@ -80,10 +80,6 @@
 <br/> 
 <hr>
 
-<div align="left">
-<img src="https://komarev.com/ghpvc/?username=ChaionSaha&&style=flat-square" align="center" />
-</div>  
-  
 
 <br/>  
 
