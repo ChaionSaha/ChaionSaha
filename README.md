@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Silkscreen&size=100&pause=1000&color=80F7F6FF&center=true&width=2120&height=500&lines=Hi%2C+I+am+Chaion+Saha.;I+am+a+Front+End+Developer.;2%2B+years+of+coding+experience.;Welcome+to+my+github+profile.)](https://git.io/typing-svg)
 
- <table border="0px"> <tr> <td width="50%">
+ <table > <tr border="0px"> <td width="50%">
  
 ## 💫 About Me:
  - 👀 Currently learning everything.<br> 
