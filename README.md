@@ -10,7 +10,7 @@
  - 📫 Email: **chaionsaha00@gmail.com**
  </td>
  <td width="50%">
-  ![git-header](https://user-images.githubusercontent.com/90419674/187183034-eeb67983-81af-4ce5-911b-eec6a93e39dc.svg)
+  <img src="https://user-images.githubusercontent.com/90419674/187183034-eeb67983-81af-4ce5-911b-eec6a93e39dc.svg" />
  </td>
  </tr></table>
  
