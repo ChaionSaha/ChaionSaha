@@ -4,15 +4,13 @@
  
 
 ## 💫 About Me: 
- <img src="https://user-images.githubusercontent.com/90419674/187185994-85e6aa78-54ae-4701-92e5-35e8afb3a34b.gif" height="20px"/> I am Chaion Saha.
- 🏫 Currently Studying at Rajshahi University of Engineering and Technology.<br>
- <img src="https://user-images.githubusercontent.com/90419674/187188685-985ee40f-6e86-4d20-be49-ab811f42e1e4.gif" width="20px" valign="center"/> Currently learning everything. <br>
-
- <img src="https://user-images.githubusercontent.com/90419674/187188835-06811af1-c09f-4115-b4ff-ab54020f4abf.gif" width="20px" valign="center"/> Know a bit about **C#, HTML, CSS, JS**<br> 
- 🥅 2022 goals: Be more productive.<br> 
-
- ⚡ I love experiencing new things.<br> 
- 📫 Email: **chaionsaha00@gmail.com**
+ - <img src="https://user-images.githubusercontent.com/90419674/187185994-85e6aa78-54ae-4701-92e5-35e8afb3a34b.gif" height="20px"/> I am Chaion Saha.
+ - 🏫 Currently Studying at Rajshahi University of Engineering and Technology.<br>
+ - <img src="https://user-images.githubusercontent.com/90419674/187188685-985ee40f-6e86-4d20-be49-ab811f42e1e4.gif" width="20px" valign="center"/> Currently learning everything. <br>
+ - <img src="https://user-images.githubusercontent.com/90419674/187188835-06811af1-c09f-4115-b4ff-ab54020f4abf.gif" width="20px" valign="center"/> Know a bit about **C#, HTML, CSS, JS**<br> 
+ - 🥅 2022 goals: Be more productive.<br> 
+ - ⚡ I love experiencing new things.<br> 
+ - 📫 Email: **chaionsaha00@gmail.com**
  
 
  
