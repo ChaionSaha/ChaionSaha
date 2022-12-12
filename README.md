@@ -66,7 +66,7 @@
 
  !-->
 
-![ChaionSaha's github activity graph](https://activity-graph.herokuapp.com/graph?username=ChaionSaha&theme=github)
+![ChaionSaha's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ChaionSaha&theme=high-contrast)
 <br/>  
 
   
