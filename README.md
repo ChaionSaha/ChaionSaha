@@ -1,17 +1,18 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Silkscreen&size=100&pause=1000&color=80F7F6FF&center=true&width=2120&height=500&lines=Hi%2C+I+am+Chaion+Saha.;I+am+a+Front+End+Developer.;2%2B+years+of+coding+experience.;Welcome+to+my+github+profile.)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Silkscreen&size=100&pause=1000&color=80F7F6FF&center=true&width=2120&height=500&lines=Hi%2C+I+am+Chaion+Saha.;I+am+a+Front+End+Developer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Welcome+to+my+github+profile) 
 
 
- 
 
 ## 💫 About Me: 
- - <img src="https://user-images.githubusercontent.com/90419674/187185994-85e6aa78-54ae-4701-92e5-35e8afb3a34b.gif" height="20px"/> I am Chaion Saha.
- - 🏫 Currently Studying at Rajshahi University of Engineering and Technology.<br>
- - <img src="https://user-images.githubusercontent.com/90419674/187188685-985ee40f-6e86-4d20-be49-ab811f42e1e4.gif" width="20px" valign="center"/> Currently learning everything. <br>
- - <img src="https://user-images.githubusercontent.com/90419674/187188835-06811af1-c09f-4115-b4ff-ab54020f4abf.gif" width="20px" valign="center"/> Know a bit about **C#, HTML, CSS, JS**<br> 
- - 🥅 2022 goals: Be more productive.<br> 
- - ⚡ I love experiencing new things.<br> 
- - 📫 Email: **chaionsaha00@gmail.com**
- 
+ <img width="500" align="right" src="https://user-images.githubusercontent.com/90419674/207626772-adc510de-0e2e-4c4e-8e35-467005610070.gif" />
+ <ul style="list-style-type: square">
+  <li><img align="left" src="https://user-images.githubusercontent.com/90419674/187185994-85e6aa78-54ae-4701-92e5-35e8afb3a34b.gif" height="20px"/> I am Chaion Saha.</li>
+ <li> 🏫 Currently Studying at Rajshahi University of Engineering and Technology.</li>
+ <li> <img src="https://user-images.githubusercontent.com/90419674/187188685-985ee40f-6e86-4d20-be49-ab811f42e1e4.gif" width="20px" valign="center"/> Currently learning everything. </li>
+ <li> <img src="https://user-images.githubusercontent.com/90419674/187188835-06811af1-c09f-4115-b4ff-ab54020f4abf.gif" width="20px" valign="center"/> Know a bit about <b>C#, HTML, CSS, JS</b></li> 
+ <li> 🥅 2022 goals: Be more productive.</li> 
+ <li> ⚡ I love experiencing new things.</li> 
+ <li> 📫 Email: <a href="mailto:chaionsaha00@gmail.com">chaionsaha00@gmail.com</a></li>
+</ul> 
 
  
  <br/>
