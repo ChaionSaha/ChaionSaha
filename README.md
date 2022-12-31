@@ -3,7 +3,7 @@
 
 
 ## 💫 About Me: 
- <img width="400" align="right" src="https://user-images.githubusercontent.com/90419674/207626772-adc510de-0e2e-4c4e-8e35-467005610070.gif" />
+ <img width="300" align="right" src="https://user-images.githubusercontent.com/90419674/207626772-adc510de-0e2e-4c4e-8e35-467005610070.gif" />
  <ul style="list-style-type: square">
   <li><img align="left" src="https://user-images.githubusercontent.com/90419674/187185994-85e6aa78-54ae-4701-92e5-35e8afb3a34b.gif" height="20px"/> I am Chaion Saha.</li>
  <li> 🏫 Currently Studying at Rajshahi University of Engineering and Technology.</li>
