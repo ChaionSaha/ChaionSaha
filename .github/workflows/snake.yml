@@ -38,7 +38,7 @@ jobs:
       - run: git status
       
       - name: Push Changes
-        uses: ad-m/github-push-action@main
+        uses: ad-m/github-push-action@master
         with:
           github_token: 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
           branch: main
