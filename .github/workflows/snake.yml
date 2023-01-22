@@ -47,7 +47,7 @@ jobs:
         with:
           # the output branch we mentioned above
           target_branch: output
-          build_dir: dist
+          
         env:
           GITHUB_TOKEN: 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
  
