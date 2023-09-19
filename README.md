@@ -7,8 +7,8 @@
  <ul style="list-style-type: square">
   <li><img align="left" src="https://user-images.githubusercontent.com/90419674/187185994-85e6aa78-54ae-4701-92e5-35e8afb3a34b.gif" height="20px"/> I am Chaion Saha.</li>
  <li> 🏫 Currently Studying at Rajshahi University of Engineering and Technology.</li>
- <li> <img src="https://user-images.githubusercontent.com/90419674/187188685-985ee40f-6e86-4d20-be49-ab811f42e1e4.gif" width="20px" valign="center"/> Currently learning everything. </li>
- <li> <img src="https://user-images.githubusercontent.com/90419674/187188835-06811af1-c09f-4115-b4ff-ab54020f4abf.gif" width="20px" valign="center"/> Know a bit about <b>HTML, CSS, JS</b></li> 
+ <li> <img src="https://user-images.githubusercontent.com/90419674/187188685-985ee40f-6e86-4d20-be49-ab811f42e1e4.gif" width="20px" valign="center"/> Know a bit about <b>HTML, CSS, JS</b> </li>
+ 
  <li> 🥅 2023 goals: Be more productive.</li> 
  <li> ⚡ I love experiencing new things.</li> 
  <li> 📫 Email: <a href="mailto:chaionsaha00@gmail.com">chaionsaha00@gmail.com</a></li>
