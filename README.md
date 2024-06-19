@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Silkscreen&size=100&pause=1000&color=80F7F6FF&center=true&width=2120&height=500&lines=Hi%2C+I+am+Chaion+Saha.;I+am+a+MERN+Stack+Developer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Welcome+to+my+github+profile) 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Silkscreen&size=100&pause=1000&color=80F7F6FF&center=true&width=2120&height=500&lines=Hi%2C+I+am+Chaion+Saha;I+am+a+Full+Stack+Web+Developer;Welcome+to+my+github+profile) 
 
 
 
