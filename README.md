@@ -70,6 +70,6 @@
 <br clear="both"/>
 
 
-<img src="https://raw.githubusercontent.com/ChaionSaha/ChaionSaha/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/ChaionSaha/ChaionSaha/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 <hr>
