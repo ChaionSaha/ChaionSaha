@@ -9,7 +9,7 @@
  <li> 🏫 Currently Studying at Rajshahi University of Engineering and Technology.</li>
  <li> <img src="https://user-images.githubusercontent.com/90419674/187188685-985ee40f-6e86-4d20-be49-ab811f42e1e4.gif" width="20px" valign="center"/> Know a bit about <b>HTML, CSS, JS</b> </li>
  
- <li> 🥅 2024 goals: Be more productive.</li> 
+ <li> 🥅 2025 goals: Be more productive.</li> 
  <li> ⚡ I love experiencing new things.</li> 
  <li> 📫 Email: <a href="mailto:chaionsaha00@gmail.com">chaionsaha00@gmail.com</a></li>
 </ul> 
