@@ -3,29 +3,28 @@
 
 
 ## 💫 About Me: 
- <img width="300" align="right" src="https://user-images.githubusercontent.com/90419674/207626772-adc510de-0e2e-4c4e-8e35-467005610070.gif" />
- <ul style="list-style-type: square">
-  <li><img align="left" src="https://user-images.githubusercontent.com/90419674/187185994-85e6aa78-54ae-4701-92e5-35e8afb3a34b.gif" height="20px"/> I am Chaion Saha.</li>
+<img width="300" align="right" src="https://user-images.githubusercontent.com/90419674/207626772-adc510de-0e2e-4c4e-8e35-467005610070.gif" />
+<ul style="list-style-type: square">
+ <li><img src="https://user-images.githubusercontent.com/90419674/187185994-85e6aa78-54ae-4701-92e5-35e8afb3a34b.gif" height="20px" width="20px" valign="center"/> I am Chaion Saha.</li>
  <li> 🏫 Completed B.Sc from Rajshahi University of Engineering and Technology.</li>
  <li> <img src="https://user-images.githubusercontent.com/90419674/187188685-985ee40f-6e86-4d20-be49-ab811f42e1e4.gif" width="20px" valign="center"/> Know a bit about <b>HTML, CSS, JS</b> </li>
  
  <li> 🥅 2025 goals: Be more productive.</li> 
  <li> ⚡ I love experiencing new things.</li> 
  <li> 📫 Email: <a href="mailto:chaionsaha00@gmail.com">chaionsaha00@gmail.com</a></li>
+ <li> 🌏 Portfolio: <a href="chaionsaha.com">chaionsaha.com</a></li>
 </ul> 
 
  
- <br/>
 <br/>
 <br/>
 <br/>
+<br/>
+
+
+
 
 ## 🤹🏻‍♂️ My Skill Set: 
-
-
-
-
-
 <div align="left">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
@@ -45,10 +44,10 @@
 </div>
 
 
- 
-
 <br/>  
 <br/>
+
+
 
 ## ☎️ Connect with me:  
 <div align="left">
