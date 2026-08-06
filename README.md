@@ -12,7 +12,7 @@
  <li> 🥅 2026 goals: Be more productive.</li> 
  <li> ⚡ I love experiencing new things.</li> 
  <li> 📫 Email: <a href="mailto:chaionsaha00@gmail.com">chaionsaha00@gmail.com</a></li>
- <li> 🌏 Portfolio: <a href="chaionsaha.com">chaionsaha.com</a></li>
+ <li> 🌏 Portfolio: <a href="https://www.chaionsaha.me">chaionsaha.com</a></li>
 </ul> 
 
  
